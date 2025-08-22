@@ -21,3 +21,5 @@ WebUI.openBrowser('https://opensource-demo.orangehrmlive.com/web/index.php/auth/
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('')
+
